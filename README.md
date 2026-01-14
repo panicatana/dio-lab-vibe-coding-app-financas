@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de  Finanças Pessoais da PANICATANA com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -75,11 +75,78 @@ No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+
+# 📊 Minha Carteira – Visão Geral do App
+
+O aplicativo **Minha Carteira** é uma solução de gestão financeira pessoal que combina simplicidade, inteligência e interatividade para ajudar os usuários a acompanhar suas finanças com facilidade.
+
+## 🔍 Funcionalidades Principais
+
+### 1. **Resumo Financeiro**
+Exibe os principais indicadores financeiros do usuário:
+- **Receita**: Total de ganhos registrados.
+- **Despesas**: Total de gastos realizados.
+- **Saldo**: Diferença entre receita e despesas, indicando o valor disponível.
+
+### 2. **Assistente Financeiro Inteligente**
+- Interface conversacional para registrar transações de forma natural.
+- Exemplo de uso: `"Gastei R$ 50 no mercado"`.
+- Permite consultar saldos e histórico com linguagem simples.
+
+### 3. **Gestão de Metas Financeiras**
+- Área dedicada à criação e acompanhamento de metas financeiras.
+- Incentiva o planejamento pessoal com o botão **+ Nova Meta**.
+- Mensagem motivacional para estimular o uso da funcionalidade.
+
+### 4. **Relatórios e Navegação**
+- Acesso rápido a **relatórios financeiros** detalhados.
+- Opção de **logout** para segurança do usuário.
+- Integração com ferramenta externa: **Edit with LumenSite**.
+
+## 👤 Personalização
+- Saudação personalizada com o nome do usuário.
+- Interface amigável e intuitiva, com foco na experiência do usuário.
+
+---
+
+Esse app é ideal para quem busca controle financeiro com praticidade e inteligência. 💡
+
+
+## Reflexão
+
+## O que funcionou bem?  
+O refinamento do PRD previamente feito no copilot ajudou muito, poisos creditos do lovable acabaram em apenas 3 interações.
+
+## O que não funcionou como o esperado?
+Esperava poder interagir mais vezes gratuitamente com o Lovable, más as interações feita já foram de grande valia para aprender mais sobre Vibe Coding.
+
+## O que aprendeu sobre conversar com IAs?
+Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
+
+# Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
+A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+
+# Problema
+Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
+Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+
+# Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+# Funcionalidades-Chave
+1. Registrar gastos via chat em linguagem natural.  
+2. Classificar automaticamente as transações.  
+3. Definir e acompanhar metas financeiras.  
+4. Receber dicas de economia do “Agente Financeiro”.  
+5. Visualizar relatórios simples e personalizados.
+
+# Entregável da IA
+Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
+Usar tom educativo e linguagem acessível, em português.Q
+## O que não funcionou como o esperado? 
+
+## O que aprendeu sobre conversar com IAs?
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
